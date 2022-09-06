@@ -48,7 +48,7 @@ Tam sıralı dizi, n tane sayinin üzerinden birer defa geçer ve hiç birini ge
 
 Sayı dizinin ortasında olduğu için average case kapsamına girer.
 
-** [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
+5. [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
 | Verilen Dizi | 7 | 3 | 5 | 8 | 2 | 9 | 4 | 15 | 6 |      
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |   
